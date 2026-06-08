@@ -1,0 +1,15 @@
+{
+  "valid_credentials": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalid_credentials": {
+    "username": "invalid_user",
+    "password": "invalid_pass"
+  },
+  "checkout_details": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "zip_code": "12345"
+  }
+}
